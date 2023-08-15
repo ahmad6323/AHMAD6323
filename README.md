@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad6323" alt="ahmad6323" /></a> </p>
 
-- 🔭 I’m currently working on **meme-generator app**
+- 🔭 I’m currently working on **different react projects**
 
-- 🌱 I’m currently learning **react node js**
+- 🌱 I’m currently learning **react, node js**
 
 - 👯 I’m looking to collaborate on **front end projects**
 
