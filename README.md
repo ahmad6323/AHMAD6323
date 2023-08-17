@@ -37,6 +37,4 @@
 
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad6323&layout=compact&langs_count=16&theme=dracula"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad6323&show_icons=true&locale=en" alt="ahmad6323" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad6323&" alt="ahmad6323" /></p>
