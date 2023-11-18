@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad6323" alt="ahmad6323" /></a> </p>
 
-- 🔭 I’m currently working on **full stack ecommerce app in next js**
+- 🔭 I’m currently working on **order taking mobile app in react native**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **front end projects**
 
-- 💬 Ask me about **React Next js , Node js , Machine learning, AI**
+- 💬 Ask me about **React Next js , Node js ,Cloud Commputing , DevOps, AWS, Docker **
 
 - 📫 How to reach me **muhammadahmad6323@gmail.com**
 
