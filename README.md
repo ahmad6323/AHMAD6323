@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **front end projects**
 
-- 💬 Ask me about **React Next js , Node js ,Cloud Commputing , DevOps, AWS, Docker **
+- 💬 Ask me about **React Next js , Node js , DevOps, AWS, Docker **
 
 - 📫 How to reach me **muhammadahmad6323@gmail.com**
 
