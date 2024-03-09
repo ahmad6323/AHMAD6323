@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad6323&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad6323" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **order taking mobile app in react native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **front end projects**
+- 👯 I’m looking to collaborate on **Docker**
 
-- 💬 Ask me about **React Next js , Node js , DevOps, AWS, Docker **
+- 💬 Ask me about ** Node js , DevOps, AWS, Docker **
 
 - 📫 How to reach me **muhammadahmad6323@gmail.com**
 
