@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad6323" alt="ahmad6323" /></a> </p>
 
-- 🔭 I’m currently working on **order taking mobile app in react native**
+- 🔭 I’m currently working on **Network Security**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Network+ and network security**
 
-- 👯 I’m looking to collaborate on **Docker**
-
-- 💬 Ask me about ** DevOps, AWS, Docker, Kubernetes, AWS, GCP, Terraform   **
+- 💬 Ask me about **DevOps, AWS, Docker, Kubernetes, AWS, GCP, Terraform, Network Security, Linux, CICD**
 
 - 📫 How to reach me **muhammadahmad6323@gmail.com**
 
