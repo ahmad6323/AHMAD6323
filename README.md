@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A passionate devOps Engineer</h3>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad6323&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad6323" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad6323" alt="ahmad6323" /></a> </p>
 
-- 🔭 I’m currently working on **Network Security**
+- 🔭 I’m currently working on **Microsoft 365 **
 
-- 🌱 I’m currently learning **Network+ and network security**
+- 🌱 I’m currently learning **Microsoft 365, Intune, Defender, AWS**
 
-- 💬 Ask me about **DevOps, AWS, Docker, Kubernetes, AWS, GCP, Terraform, Network Security, Linux, CICD**
+- 💬 Ask me about ** Microsoft 365, Intune, Defender, AWS, Linux **
 
 - 📫 How to reach me **muhammadahmad6323@gmail.com**
 
